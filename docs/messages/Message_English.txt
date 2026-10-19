@@ -1,0 +1,68 @@
+🚆 *TMR Mitra – Version 1 Beta*
+_A control-message and report helper for Train Managers (TMRs)_
+*Right information · at the right time · in the right format*
+
+Dear colleagues and friends,
+
+I have made a small web tool to help us construct control messages and reports quickly and correctly. Please read, try it and tell me what you think. 🙏
+
+*📌 ⚠️ First, please note*
+• This is *NOT an official Railway tool*. I made it only as a personal web tool for our convenience.
+• It only *drafts* the wording. We always check and send the message ourselves. Rule books and Control's orders always come first.
+• It may or may not replace the manual, phone-call or traditional way of informing Control. It is only an *aid* to construct the message or report in an emergency or incident.
+• This is a *Beta* version. There may be errors, bugs and mistakes. Please give your inputs, corrections, feedback and suggestions. 🙏
+
+*🔒 My biggest highlight: totally offline, totally private*
+• After the first install it works *fully offline*.
+• *All data is stored in your own phone only* – your name, phone number, signature, contacts, photos and saved messages. 
+• No server, no login, no tracking. Nothing is uploaded anywhere.
+• So there is *no fear of misuse or hacking*. A message goes out only when *you* tap WhatsApp / SMS / Share.
+
+*📞 Why a good control message matters*
+The Control Office is the nerve centre in an emergency. From our message it plans: relief engine, medical help, RPF, diversion of trains, and informing the officials. 
+In an emergency we are troubleshooting and talking at the same time, so it is not easy to write a complete message. 
+Control needs the *right information, at the right time, in the right format*. A wrong train number, a missing km or a missing time can cost precious minutes. A clear message makes a real difference.
+
+*📷 Evidence = authentication of our work*
+In this digital era, photos, video and voice notes sent along with the message prove what we found and what we did. The app helps to take them (with optional date-time-train-km stamp) and send them together with the message.
+
+*⏱ Time saved*
+Typing a full message by hand with all details on a phone keypad usually takes some minutes (approximately 3–5 minutes, depending on the person). If we know the features, the app can prepare it in well under a minute – Quick entry by voice or typing one sentence can fill most of the boxes in about 15–20 seconds. (These are approximate; please try and see for yourself.)
+
+*🧰 Core features in brief*
+• Guided messages: 19 categories, 139 scenarios, each in Full and Short format = 278 message formats.
+• One *“Where did it stop?”* choice in most stopping scenarios: mid-section, passing a station, arriving / standing / starting at a platform (scheduled or non-scheduled, with PF no.), or in the station yard.
+• *Repeated stoppages*: add each place and the minutes lost; the total detention is added automatically.
+• *Follow-up: Train Ready / Started*: the second message to Control, with ready time, left time (or none) and what the train waited for (line clear, crossing, precedence).
+• *Incident chains*: person fallen from train (train backed to pick up with SM permission, or located by another train), person on track as per LP information (age, body found, track free, train started) and a *What happened next* follow-up for the later messages.
+• *Trains affected*: list each train that was held with how it was dealt and the minutes; the message adds “Repercussion: …” with the details. New S&T messages: BPAC failure, LC gate indication failed, track circuit dropped in rain.
+• *Basics view*: the form now shows only the main boxes first; left time, detention and other details are one tap away under “More details”. Switch to “All boxes” any time.
+• Messages follow Control's own wording: “Train ready and left at HH:MM hrs. Det+NN mins.” and TMR No. = your phone number.
+• Combinations: the drop-down choices alone give more than *5 trillion (5 lakh crore)* different messages, even before train number, km, time and tick-boxes.
+• Quick entry: type or say one line; the app picks the scenario and fills what it understood (never guesses).
+• 🚨 Emergency window: one tap, voice input, quick WhatsApp to saved contacts, call Control.
+• Recheck: warns about blank parts or a wrong train number before sending.
+• Evidence: photo, video, audio note, multi-camera, stamp, send with message.
+• Troubleshooting checklists with time stamps, stop timer, detention calculator, update reminder.
+• *Report tool*: TMR report, Loco Pilot report and also *Joint report* (when a joint report is asked) with signature pad, PDF, WhatsApp text and sharing with proof files.
+• *My Library*: keep your ROM, SOB, safety circulars, flyleaf pages, SOPs, ready reckoners and *rule book amendments* (add each AS slip with its number, date, a note and a photo or PDF, or add AS 11 to 23 in one go) – type, speak, photo or gallery. All categories are in view, newest first (or A–Z), a photo and page count on each card, valid-until dates, bigger-text reading, Copy text, Undo after delete, and an optional ☆ Pin. Nothing shows on the home screen unless you pin it.
+• *Reuse an earlier message*: for a follow-up or a similar incident, open a recent or saved message with all its details and change only what is different (or clear the times). Photos are not kept.
+• For depots: a *starter pack* (one senior TMR sets the zone, division, station codes, trains and control numbers once; colleagues import it in one tap – no personal data is in it), an *install check* (is it installed, does it work offline, how much storage is left), a storage warning and a monthly backup reminder.
+• Important numbers, My profile, My record (PME and RC due dates with warnings on the home screen: 1 month before for PME / RC, 1 week before for the Automatic signal certificate and First aid box), Saved messages and shift log, Free message, Night and Outdoor screens, Training mode, Telugu/Hindi titles, "please check" warnings for wrong times, a monthly backup reminder, and backup and restore.
+
+*📲 How to install (free, 1 minute)*
+*Android (Chrome):*
+1. Open this link in Chrome: [APP LINK]
+2. Tap ⋮ (menu) → *Install app* (or *Add to Home screen*).
+3. Open the app once *with internet* and wait a few seconds. After that it works without internet.
+*iPhone (Safari):* open the link → Share → *Add to Home Screen*.
+
+*🚀 Future*
+If this web version is useful, I plan to create a full Android app.
+
+*🙏 Request*
+Please try it, use the *Training* mode to practise, and send me wrong wording, bugs and ideas (inside the app: "Report wrong wording" button, or message me directly). Please also share with other TMRs, Guards and Loco Pilots who may find it useful.
+
+Thank you.
+– [Your name], Train Manager
+_(Not an official Railway tool. Beta version.)_
